@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/niccolomiranda/static/css/main.a5489285.css",
+    "main.css": "/niccolomiranda/static/css/main.64008cf8.css",
     "main.js": "/niccolomiranda/static/js/main.9062a032.js",
     "static/js/787.998b4c01.chunk.js": "/niccolomiranda/static/js/787.998b4c01.chunk.js",
     "static/media/avatar-3.jpeg": "/niccolomiranda/static/media/avatar-3.a200f48473f15627ece5.jpeg",
@@ -23,12 +23,12 @@
     "static/media/logo.svg": "/niccolomiranda/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/avro-ko.svg": "/niccolomiranda/static/media/avro-ko.dcd8116232cb03f6c6c01f5712011e80.svg",
     "index.html": "/niccolomiranda/index.html",
-    "main.a5489285.css.map": "/niccolomiranda/static/css/main.a5489285.css.map",
+    "main.64008cf8.css.map": "/niccolomiranda/static/css/main.64008cf8.css.map",
     "main.9062a032.js.map": "/niccolomiranda/static/js/main.9062a032.js.map",
     "787.998b4c01.chunk.js.map": "/niccolomiranda/static/js/787.998b4c01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5489285.css",
+    "static/css/main.64008cf8.css",
     "static/js/main.9062a032.js"
   ]
 }
